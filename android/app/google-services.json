@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757154257385",
+    "project_id": "bullshit-fb930",
+    "storage_bucket": "bullshit-fb930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757154257385:android:8d5236e0e25862a85c1378",
+        "android_client_info": {
+          "package_name": "com.texod.bullshit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757154257385-h65f7fm99b61d76utfd0ht7dh29elg4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWAh0SDOxmkEoir-nv_fG8uWc3Ky0OM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757154257385-h65f7fm99b61d76utfd0ht7dh29elg4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
